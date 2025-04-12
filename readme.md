@@ -1,0 +1,1 @@
+ts-node src/scrapper.ts
